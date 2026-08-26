@@ -105,6 +105,7 @@ I help businesses **save time, stay organized, and work more efficiently**. By d
 </table>
 
 ---
+<img width="1024" height="1536" alt="Protfoilo" src="https://github.com/user-attachments/assets/cefde378-bf33-4b0a-9bf1-8c9c2db09fc3" />
 
 ## 📈 Why Choose Me?
 
@@ -112,3 +113,4 @@ I help businesses **save time, stay organized, and work more efficiently**. By d
   [ SAVE TIME ] ──> [ REDUCE MANUAL WORK ] ──> [ IMPROVE ORGANIZATION ]
                                                          │
   [ RELIABLE SUPPORT ] <── [ FOCUS ON GROWTH ] <── [ INCREASE EFFICIENCY ]
+
